@@ -5,3 +5,6 @@ hi()
 
 d
 
+function eat() {
+    console.log('eat mouse')
+}
